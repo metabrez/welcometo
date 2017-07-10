@@ -6,6 +6,7 @@ public class welcometo {
 		System.out.println("Hello");
 		System.out.println("weloome");
 		System.out.println("Susan");
+		System.out.println("Baskota");
 	}
 
 }
